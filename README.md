@@ -9,29 +9,13 @@
 
 > **Learning by doing.** The best way to understand technology is to build with it - exploring both how things work and why they matter.
 
----
-
-### Current Project
 ```yaml
-homelab:
-  infrastructure: "3-node Kubernetes cluster on Proxmox"
-  provisioning: "OpenTofu/Terraform with bpg/proxmox provider"
-  os: "Talos Linux (immutable, API-driven)"
-  storage: "Proxmox storage backend"
-  
-  in_progress:
-    - "CNI deployment (Cilium)"
-    - "GitOps workflows (ArgoCD)"
-    - "CI/CD pipeline"
-    - "Observability stack (VictoriaMetrics, VictoriaLogs, Grafana)"
-    - "Secrets management with encryption"
-    
-  roadmap:
-    - "Ingress controller with automated TLS (cert-manager)"
-    - "Automated backups and disaster recovery"
+skills:
+  languages: "Python · Shell · HCL · HTML · CSS · XML"
+  tools: "Docker · ArgoCD · Grafana · Prometheus · OpenTofu · Helm"
+  platforms: "Linux · Kubernetes · Proxmox · Odoo"
+  practices: "GitOps · IaC · CI/CD · Observability"
 ```
-
----
 
 <div align="center">
 
@@ -42,10 +26,3 @@ homelab:
 
 </div>
 
----
-
-<div align="center">
-
-📫 **Always building, always learning**
-
-</div>
