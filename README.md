@@ -1,6 +1,4 @@
-# Enhara Systems
-
-I manage infrastructure for a living. I build it for fun. Both make me better at the other.
+![Enhara Systems](enhara-systems-banner-v2.png)
 
 ```yaml
 focus: Platform Engineering · Kubernetes · Cloud-Native Infrastructure
@@ -39,3 +37,4 @@ practices:
 
 </div>
 
+<p align="center"><em>I manage infrastructure for a living. I build it for fun. Both make me better at the other.</em></p>
