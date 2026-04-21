@@ -3,31 +3,31 @@
 I manage infrastructure for a living. I build it for fun. Both make me better at the other.
 
 ```yaml
-focus: "Platform Engineering · Kubernetes · Cloud-Native Infrastructure"
+focus: Platform Engineering · Kubernetes · Cloud-Native Infrastructure
 
 languages:
-  core:     "Python · Shell · HCL"
-  familiar: "PHP · HTML · CSS · C · Java · Lua"
+  core:     Python · Shell · HCL
+  familiar: PHP · HTML · CSS · C · Java · Lua
 
 infrastructure:
-  orchestration: "Kubernetes · Docker · Helm · Kustomize"
-  cloud:         "Azure"
-  iac:           "OpenTofu · Terraform"
-  networking:    "Traefik"
-  storage:       "Longhorn"
-  on-prem:       "Proxmox · Linux"
+  orchestration: Kubernetes · Docker · Helm · Kustomize
+  cloud:         Azure
+  iac:           OpenTofu · Terraform
+  networking:    Traefik
+  storage:       Longhorn
+  on-prem:       Proxmox · Linux
 
 observability:
-  metrics:  "Prometheus · Grafana"
-  logging:  "Loki · Promtail · VictoriaLogs"
+  metrics:  Prometheus · Grafana
+  logging:  Loki · Promtail · VictoriaLogs
 
 delivery:
-  cicd:     "CI/CD · Static Analysis · Security Scanning"
+  cicd:     CI/CD · Static Analysis · Security Scanning
 
 practices:
-  workflow:    "GitOps · Security-First · Code Review"
-  reliability: "SRE · Incident Response · Observability-Driven"
-  governance:  "ISO 27001 · WCAG · Security Management"
+  workflow:    GitOps · Security-First · Code Review
+  reliability: SRE · Incident Response · Observability-Driven
+  governance:  ISO 27001 · WCAG · Security Management
 ```
 
 <div align="center">
