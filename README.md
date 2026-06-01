@@ -1,4 +1,4 @@
-![Enhara Systems](enhara-systems-banner-v2.png)
+![Enhara Systems](enhara-banner-1500x500.png)
 
 ```yaml
 focus: Full-Stack IT · Development · Infrastructure · Cloud & DevOps
